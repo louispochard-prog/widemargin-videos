@@ -22,7 +22,7 @@ Ce qui suit résume l'essentiel. En cas de doute, ces deux fichiers l'emportent.
   - rendu réaliste (Three.js + vrai décor HDRI Poly Haven par défaut) ;
   - objets réels fidèles aux vraies photos (`banque-sujets/references/<slug>/` + SOURCES.md, à compléter si besoin) ;
   - à l'écran, seulement des images sous licence libre, créditées.
-- **Mascotte** `VagueVisage` (`/mnt/project-files/mascotte/wiggle.py`, CHARTE.md) et **zone sûre** TikTok.
+- **Mascotte** `Savant()` « L'Inventeur » depuis le 11/11 (`/mnt/project-files/mascotte/savant.py` + `render_overlay`/`mouth_track` de wiggle.py, CHARTE.md ; plus de VagueVisage) et **zone sûre** TikTok.
 - **Son** : bruitages et musique aux niveaux de RECETTE.md, loudnorm -14 LUFS.
 - **Machine partagée** (4 cœurs, 2 autres sous-agents) :
   - `nice -n 10`, un seul navigateur de rendu à la fois ;
